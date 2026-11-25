@@ -1,0 +1,13 @@
+﻿{
+  "secret_salt": "my-local-dev-salt",
+  "amount_jitter_pct": 0.15,
+  "columns": {
+    "id": "keep",
+    "full_name": "name",
+    "email": "email",
+    "phone": "phone",
+    "city": "city",
+    "order_total": "amount",
+    "status": "keep"
+  }
+}
